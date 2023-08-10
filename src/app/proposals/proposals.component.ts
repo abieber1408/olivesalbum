@@ -14,4 +14,3 @@ export class ProposalsComponent implements OnInit {
     
   }
 
-}
